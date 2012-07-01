@@ -1,0 +1,6 @@
+This is a utility for taking photos that have been hosted in Gallery2 and
+writing the description and caption data into IPTC fields that can be read
+by Picasa or other photo managers.
+
+Basically useful if you want to export your photos from Gallery2 and import
+them into Picasa.
